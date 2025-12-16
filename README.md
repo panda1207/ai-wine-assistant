@@ -1,4 +1,4 @@
-# VinoBuzz Mobile Simulator - AI Wine Assistant
+# AI Wine Assistant
 
 A React Native (Expo) mobile simulator showcasing a wine e-commerce experience with an integrated AI chat assistant and detailed product pages.
 
@@ -8,6 +8,8 @@ This mobile simulator demonstrates:
 - **Persistent Chatbox**: A minimizable/expandable chat interface that persists across the app
 - **Product Detail Page**: A comprehensive wine product page with rich information hierarchy
 - **Seamless Integration**: Smooth transitions between chat and product browsing
+
+https://github.com/user-attachments/assets/aa22316f-4a15-47b8-946d-c564202cfa42
 
 ## 📱 Features
 
@@ -284,8 +286,7 @@ This project is created for assessment purposes.
 
 ## 👤 Author
 
-Created for VinoBuzz Tech Lead Assessment – December 2025
-
+Frankie
 ---
 
 **Note**: This is a simulator/prototype built for assessment purposes. It uses mock data and simulated interactions to demonstrate mobile UX patterns for a wine e-commerce platform with AI assistance.
